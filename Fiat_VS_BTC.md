@@ -1,5 +1,5 @@
-Why is cryptocurrency better than fiat currency?
-
+# Why is cryptocurrency better than fiat currency?
+---
 
 Fiat currency is a form of incumbent money meaning it is issued and controlled by governments and based on trust. It is also a cryptocurrency predecessor and competitor. Some examples of fiat are USD, EUR, and JPY (Japanese Yen). Fiat has been used since the 1934 Gold Reserve Act but recently many cryptocurrency enthusiasts have pointed out several issues with fiat that crypto strives to prevent.
 
